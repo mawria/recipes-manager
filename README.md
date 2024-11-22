@@ -2,7 +2,7 @@
 
 ## Description
 
-The **Recipe Manager App** is a web application built with **React** that allows users to create, view, edit, and delete recipes. The app includes functionality to filter recipes by type (sweet or salty) and store them locally using **localStorage**. It features a user-friendly interface with responsive design and modern UI elements, providing a smooth user experience across different devices.
+The **Recipe Manager App** is a web application built with **React** that allows users to create, view, edit, and delete recipes. The app includes functionality to filter recipes by type (sweet or salty) and store them locally using **localStorage**.
 
 ## Features
 
